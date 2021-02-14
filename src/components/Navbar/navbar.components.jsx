@@ -5,7 +5,7 @@ const Navbar = ({ toggle }) => {
     return (
         <>
             <Nav>
-                <NavLink to='/'>hamburgers</NavLink>
+                <NavLink to='/'>Burger Lab</NavLink>
                 <NavIcon onClick={toggle}>
                     <p>Menu</p>
                     <Bars />

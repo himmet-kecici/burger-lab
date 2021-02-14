@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import ImgBg from '../../images/hamburgerHead.jpeg'
+import ImgBg from '../../images/hamburger5.jpeg'
 
 
 export const HeadingContainer = styled.div`
