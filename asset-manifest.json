@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/burger-lab/static/js/main.1e796f6a.chunk.js",
+    "main.js.map": "/burger-lab/static/js/main.1e796f6a.chunk.js.map",
+    "runtime-main.js": "/burger-lab/static/js/runtime-main.36a40ec2.js",
+    "runtime-main.js.map": "/burger-lab/static/js/runtime-main.36a40ec2.js.map",
+    "static/js/2.48352b38.chunk.js": "/burger-lab/static/js/2.48352b38.chunk.js",
+    "static/js/2.48352b38.chunk.js.map": "/burger-lab/static/js/2.48352b38.chunk.js.map",
+    "static/js/3.7fb9e57a.chunk.js": "/burger-lab/static/js/3.7fb9e57a.chunk.js",
+    "static/js/3.7fb9e57a.chunk.js.map": "/burger-lab/static/js/3.7fb9e57a.chunk.js.map",
+    "index.html": "/burger-lab/index.html",
+    "static/js/2.48352b38.chunk.js.LICENSE.txt": "/burger-lab/static/js/2.48352b38.chunk.js.LICENSE.txt",
+    "static/media/hamburger4.93c8bd78.jpg": "/burger-lab/static/media/hamburger4.93c8bd78.jpg",
+    "static/media/hamburger5.768200b1.jpeg": "/burger-lab/static/media/hamburger5.768200b1.jpeg",
+    "static/media/product1.c335bc49.jpeg": "/burger-lab/static/media/product1.c335bc49.jpeg",
+    "static/media/product2.678da1ea.jpeg": "/burger-lab/static/media/product2.678da1ea.jpeg",
+    "static/media/product3.6f941dac.jpeg": "/burger-lab/static/media/product3.6f941dac.jpeg",
+    "static/media/product4.4ca3bb86.jpg": "/burger-lab/static/media/product4.4ca3bb86.jpg",
+    "static/media/product5.e0832669.jpg": "/burger-lab/static/media/product5.e0832669.jpg",
+    "static/media/product6.0c437dae.jpg": "/burger-lab/static/media/product6.0c437dae.jpg",
+    "static/media/sweet1.770d27b7.jpeg": "/burger-lab/static/media/sweet1.770d27b7.jpeg",
+    "static/media/sweet2.665be1ba.jpg": "/burger-lab/static/media/sweet2.665be1ba.jpg",
+    "static/media/sweet3.119bece8.jpeg": "/burger-lab/static/media/sweet3.119bece8.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36a40ec2.js",
+    "static/js/2.48352b38.chunk.js",
+    "static/js/main.1e796f6a.chunk.js"
+  ]
+}
